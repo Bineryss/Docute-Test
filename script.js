@@ -18,7 +18,7 @@ new Docute({
     ],
     sidebar: [
         {
-            title: 'Guide',
+            title: 'Home',
             links: [
                 {
                     title: 'Introduction',
@@ -27,6 +27,32 @@ new Docute({
                 {
                     title: 'Installation',
                     link: '/installation'
+                }
+            ]
+        },
+        {
+            title: 'React',
+            links: [
+                {
+                    title: 'React im Projekt',
+                    link: '/react/reactOverview'
+                },
+                {
+                    title: 'Material UI',
+                    link: '/react/MaterialUi'
+                },
+                {
+                    title: 'Aufbau einer Komponente',
+                    link: '/react/AufbauKomponente'
+                },
+            ]
+        },
+        {
+            title: 'Middleware',
+            links: [
+                {
+                    title: 'Redux',
+                    link: '/middleware/Redux'
                 }
             ]
         }
