@@ -1,0 +1,23 @@
+{
+  "name": "docute-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "serve" : "serve ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bineryss/Docute-Test.git"
+  },
+  "author": "Binerys",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bineryss/Docute-Test/issues"
+  },
+  "homepage": "https://github.com/Bineryss/Docute-Test#readme",
+  "dependencies": {
+    "docute": "^4.23.3",
+    "serve": "^11.3.2"
+  }
+}
